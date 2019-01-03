@@ -64,6 +64,9 @@ acs-*.bib
 # changes
 *.soc
 
+# comment
+*.cut
+
 # cprotect
 *.cpt
 
@@ -202,8 +205,15 @@ pythontex-files-*/
 # todonotes
 *.tdo
 
+# vhistory
+*.hst
+*.ver
+
 # easy-todo
 *.lod
+
+# xcolor
+*.xcp
 
 # xmpincl
 *.xmpi
